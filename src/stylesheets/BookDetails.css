@@ -1,0 +1,33 @@
+.modalImage{
+    width: 35vw;
+    height: 90vh;
+}
+
+h4{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+h3{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 300;
+}
+
+.singleBookDetails{
+    padding-bottom: 15vh;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.firstDiv{
+    margin-top: 0px!important;
+    padding-top: 0px!important;
+}
+
+.comments{
+    font-weight: 300;
+}

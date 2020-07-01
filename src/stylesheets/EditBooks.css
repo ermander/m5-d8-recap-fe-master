@@ -1,0 +1,9 @@
+.editImage{
+    height: 100vh;
+    width: 100vw;
+    margin-left: 0.5vw;
+}
+
+.editBookRow{
+    margin-bottom: 10px;
+}
